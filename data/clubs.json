@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Rakiety PGE Narodowy",
+        "url": "rakiety-pge-narodowy",
+        "tenant_id": "153bbff6-abf6-4ffe-ad93-ba1045e9d43b",
+        "resources": {
+            "Padel 1 (Indoor)": "2344aa0f-02f3-46be-980d-1e12f2a7f488",
+            "Padel 2 (Indoor)": "2628f9de-5058-403e-b4e7-3070aa4227c8",
+            "Padel 3 (Indoor)": "0fb56e90-9378-4ab5-a510-f65a4f1e3332",
+            "Padel 4 (Indoor)": "e6d24d61-2151-45db-9630-2ddbef1b9263",
+            "Padel 5 (Indoor)": "9021f2e3-6f1c-411e-a143-c5814beaa6bc",
+            "Padel 6 (Outdoor)": "f0488868-deb9-4eca-be76-34fc783e1157",
+            "Padel 7 (Outdoor)": "d6191080-2485-4eb6-aa52-4ecab5d1d94b",
+            "Padel 8 (Outdoor)": "7f025fa1-e226-49ef-9753-da63e3dabb19",
+            "Padel 9 (Outdoor)": "f9011a66-2384-46d2-87df-13b6519f7c33",
+            "Padel 10 (Outdoor)": "72eb9fe2-5c26-401a-bb8d-872d013b995a"
+        }
+    }
+]
