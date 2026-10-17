@@ -122,7 +122,6 @@ def search_and_filter(
                 duration=search_critera["duration"],
                 start_time_range=search_critera["start_time_range"],
             )
-            # Pusta lista oznacza udany skan bez terminów; brak daty oznacza błąd.
             desired_slots[date] = filtered_slots
         if desired_slots:
             slots_for_clubs[club] = desired_slots
@@ -160,7 +159,6 @@ def find_new_slots(previous_slots: dict, current_slots: dict) -> dict:
         courts = result.setdefault(club, {}).setdefault(date, {})
         courts.setdefault(court_name, []).append(slot)
 
-    # Zachowujemy strukturę przyjmowaną przez prepare_telegram_notification.
     return {
         club: {date: list(courts.items()) for date, courts in dates.items()}
         for club, dates in result.items()
@@ -175,7 +173,6 @@ def update_slot_snapshot(
         for club, dates in scan_result.items()
         for date in dates
     }
-    # Zachowujemy poprzednie dane dla dat, których nie udało się pobrać.
     snapshot = {
         key: slot
         for key, slot in previous_slots.items()
@@ -207,7 +204,6 @@ def main():
         except requests.exceptions.RequestException as e:
             print(f"Błąd podczas wysyłania powiadomienia: {type(e).__name__}")
         else:
-            # Aktualizujemy stan po udanej wysyłce albo gdy nie ma nowych terminów.
             previous_slots = update_slot_snapshot(previous_slots, current_slots, result)
 
         scan_time = datetime.now().strftime("%H:%M:%S")
