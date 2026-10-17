@@ -1,0 +1,846 @@
+{
+    "Rakiety PGE Narodowy": {
+        "2026-10-26": [
+            [
+                "Padel 2 (Indoor)",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    }
+                ]
+            ],
+            [
+                "Padel 3 (Indoor)",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "210 PLN"
+                    },
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    }
+                ]
+            ],
+            [
+                "Padel 4 (Indoor)",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "210 PLN"
+                    },
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    }
+                ]
+            ],
+            [
+                "Padel 5 (Indoor)",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "210 PLN"
+                    },
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    },
+                    {
+                        "start_time": "21:00:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    }
+                ]
+            ]
+        ],
+        "2026-10-27": [
+            [
+                "Padel 1 (Indoor)",
+                [
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    }
+                ]
+            ],
+            [
+                "Padel 2 (Indoor)",
+                [
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "210 PLN"
+                    },
+                    {
+                        "start_time": "21:00:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    }
+                ]
+            ],
+            [
+                "Padel 3 (Indoor)",
+                [
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "210 PLN"
+                    },
+                    {
+                        "start_time": "21:00:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    }
+                ]
+            ],
+            [
+                "Padel 4 (Indoor)",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "210 PLN"
+                    },
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    },
+                    {
+                        "start_time": "21:00:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    }
+                ]
+            ],
+            [
+                "Padel 5 (Indoor)",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "210 PLN"
+                    },
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    }
+                ]
+            ]
+        ],
+        "2026-10-28": [
+            [
+                "Padel 1 (Indoor)",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    }
+                ]
+            ],
+            [
+                "Padel 2 (Indoor)",
+                [
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:30:00",
+                        "duration": 90,
+                        "price": "240 PLN"
+                    }
+                ]
+            ],
+            [
+                "Padel 3 (Indoor)",
+                [
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "210 PLN"
+                    },
+                    {
+                        "start_time": "15:30:00",
+                        "duration": 90,
+                        "price": "240 PLN"
+                    },
+                    {
+                        "start_time": "16:30:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    }
+                ]
+            ],
+            [
+                "Padel 4 (Indoor)",
+                [
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "210 PLN"
+                    },
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "270 PLN"
+                    }
+                ]
+            ],
+            [
+                "Padel 5 (Indoor)",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    }
+                ]
+            ]
+        ]
+    },
+    "Warsaw Padel Club": {
+        "2026-10-26": [
+            [
+                "2 - Full Panoramic",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    }
+                ]
+            ],
+            [
+                "3 - LaCava",
+                [
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "198 PLN"
+                    },
+                    {
+                        "start_time": "15:30:00",
+                        "duration": 90,
+                        "price": "216 PLN"
+                    },
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "234 PLN"
+                    },
+                    {
+                        "start_time": "17:00:00",
+                        "duration": 90,
+                        "price": "290 PLN"
+                    }
+                ]
+            ],
+            [
+                "4 - Bombilla Yerba Mate",
+                [
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    }
+                ]
+            ],
+            [
+                "5 - Full Panoramic",
+                [
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "198 PLN"
+                    },
+                    {
+                        "start_time": "15:30:00",
+                        "duration": 90,
+                        "price": "216 PLN"
+                    },
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "234 PLN"
+                    },
+                    {
+                        "start_time": "17:00:00",
+                        "duration": 90,
+                        "price": "290 PLN"
+                    }
+                ]
+            ],
+            [
+                "6 - Full Panoramic",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "198 PLN"
+                    },
+                    {
+                        "start_time": "15:30:00",
+                        "duration": 90,
+                        "price": "216 PLN"
+                    },
+                    {
+                        "start_time": "16:30:00",
+                        "duration": 90,
+                        "price": "262 PLN"
+                    }
+                ]
+            ],
+            [
+                "7 - OYSHO",
+                [
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "234 PLN"
+                    }
+                ]
+            ],
+            [
+                "8 - 4FLEX",
+                [
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "198 PLN"
+                    },
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "234 PLN"
+                    }
+                ]
+            ],
+            [
+                "9 - Full Panoramic",
+                [
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "234 PLN"
+                    }
+                ]
+            ],
+            [
+                "10 - Full Panoramic",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:00:00",
+                        "duration": 90,
+                        "price": "198 PLN"
+                    },
+                    {
+                        "start_time": "16:00:00",
+                        "duration": 90,
+                        "price": "234 PLN"
+                    }
+                ]
+            ]
+        ],
+        "2026-10-27": [
+            [
+                "1 - Dr Witt - Full Panoramic",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    }
+                ]
+            ],
+            [
+                "2 - Full Panoramic",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:30:00",
+                        "duration": 90,
+                        "price": "216 PLN"
+                    }
+                ]
+            ],
+            [
+                "4 - Bombilla Yerba Mate",
+                [
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    }
+                ]
+            ],
+            [
+                "5 - Full Panoramic",
+                [
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    }
+                ]
+            ],
+            [
+                "6 - Full Panoramic",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:30:00",
+                        "duration": 90,
+                        "price": "216 PLN"
+                    }
+                ]
+            ],
+            [
+                "7 - OYSHO",
+                [
+                    {
+                        "start_time": "12:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "12:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "13:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:00:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "14:30:00",
+                        "duration": 90,
+                        "price": "180 PLN"
+                    },
+                    {
+                        "start_time": "15:30:00",
+                        "duration": 90,
+                        "price": "216 PLN"
+                    }
+                ]
+            ]
+        ]
+    }
+}

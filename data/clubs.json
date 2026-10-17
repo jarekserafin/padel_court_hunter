@@ -1,6 +1,5 @@
-[
-    {
-        "name": "Rakiety PGE Narodowy",
+{
+    "Rakiety PGE Narodowy": {
         "url": "rakiety-pge-narodowy",
         "tenant_id": "153bbff6-abf6-4ffe-ad93-ba1045e9d43b",
         "resources": {
@@ -15,5 +14,21 @@
             "Padel 9 (Outdoor)": "f9011a66-2384-46d2-87df-13b6519f7c33",
             "Padel 10 (Outdoor)": "72eb9fe2-5c26-401a-bb8d-872d013b995a"
         }
+    },
+    "Warsaw Padel Club": {
+        "url": "warsaw-padel-club",
+        "tenant_id": "e7284c78-e269-44ad-8f3d-a4d63089c80c",
+        "resources": {
+            "1 - Dr Witt - Full Panoramic": "1cec001d-ef04-4539-b91e-1f934d642272",
+            "2 - Full Panoramic": "5ee466f6-aae7-4488-b52c-25686fd05424",
+            "3 - LaCava": "c47e8d6b-677f-4afc-b29e-29917354c326",
+            "4 - Bombilla Yerba Mate": "644f3cf9-f1ea-43c1-b8b7-4df84d5e1286",
+            "5 - Full Panoramic": "64ca5ec4-2455-4954-b45c-b08dbe4ddd05",
+            "6 - Full Panoramic": "b6e15946-1bf0-49fd-b567-f0d3b4f9544f",
+            "7 - OYSHO": "f0c8b4e9-bace-4c08-8bdd-7f1575d14221",
+            "8 - 4FLEX": "8ddd9aca-b709-4bc5-95b5-52890bc7a31e",
+            "9 - Full Panoramic": "edfdcbae-079c-4747-b421-159e7a097dc0",
+            "10 - Full Panoramic": "0617a689-2983-476a-9377-246c9cc046ae"
+        }
     }
-]
+}
